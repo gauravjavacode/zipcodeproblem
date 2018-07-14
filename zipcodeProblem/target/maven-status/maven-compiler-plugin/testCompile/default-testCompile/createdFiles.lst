@@ -1,0 +1,3 @@
+com\zipcode\processor\factorybot\ZipcodeDataSet.class
+com\zipcode\processor\ZipcodeMergerTest.class
+com\zipcode\processor\zipcodeReaderTest.class
